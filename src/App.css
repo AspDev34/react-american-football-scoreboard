@@ -7,6 +7,9 @@
   width: 58%;
   margin: 10rem auto;
   background-color: #0b5402;
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png);
+  background-repeat: no-repeat;
+  background-size: contain;
   color: white;
   border-radius: 0.5rem;
   margin-top: 10rem;
